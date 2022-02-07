@@ -1,0 +1,6 @@
+month	semester
+June	1
+November	2
+May	1
+December	2
+August	2
